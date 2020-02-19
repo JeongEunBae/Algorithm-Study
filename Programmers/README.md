@@ -6,5 +6,5 @@
 ## Solve
 | <center>Level</center> | <center>Name</center>   | <center> File </center> |
 | :------------- | :------------- | :------------- | 
-| Level1      | 완주하지 못한 선수     |  [Lv1-01](../../LEVEL 1/완주하지 못한 선수/Lv1-01.cpp)      |
+| Level1      | 완주하지 못한 선수     |  [Lv1-01](Programmers/LEVEL 1/완주하지 못한 선수/Lv1-01.cpp)      |
 | Level1      | K번째 수     |  Lv1-02      |
