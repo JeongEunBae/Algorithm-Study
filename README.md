@@ -6,4 +6,4 @@
 1. Programmers (www.programmers.co.kr)
 2. BackJoon (www.acmicpc.net)
 3. Codeground (www.codeground.org)
-4. Leetcode (www.leetcode.come)
+4. Leetcode (www.leetcode.com)
