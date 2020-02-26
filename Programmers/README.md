@@ -4,6 +4,8 @@
 프로그래머스 문제 해결 및 구현
 
 ## Solve
+### 개발언어 
+```C++```
 | <center>Level</center> | <center>Name</center>   | <center> File </center> |
 | :------------- | :------------- | :------------- | 
 | Level1      | 완주하지 못한 선수     |  [Lv1-01](./LEVEL%201/완주하지%20못한%20선수)      |
