@@ -9,3 +9,4 @@
 4. Leetcode (www.leetcode.com)
 5. Algospot (www.algospot.com)
 6. Lavida (https://lavida.us) - 1학년 프로그래밍실습 
+7. 2020 Google Code Jam (https://codingcompetitions.withgoogle.com/codejam/about)
